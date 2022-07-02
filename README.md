@@ -1,17 +1,18 @@
 # Termux-login-HK
+
 # LINK 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-1dcf57?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amrit-giri.com.np/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-giri-6a2500198/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmritGi56713133)
-[![YouTube](https://img.shields.io/badge/youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://m.youtube.com/channel/UCVme0WEkXsjIUJXMQPx_iHA?sub_confirmation=1)
-[![GitHub](https://img.shields.io/badge/github-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Amrit-Giri/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://?sub_confirmation=1)
+[![GitHub](https://img.shields.io/badge/github-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/HKHacker1/)
 
 
-[![image](https://user-images.githubusercontent.com/85377404/161822288-e91687f5-7d3b-4a96-bbe4-08e01d04cf0d.png)](https://m.youtube.com/channel/UCVme0WEkXsjIUJXMQPx_iHA?sub_conformation=1)
+[![image](https://user-images.githubusercontent.com/85377404/161822288-e91687f5-7d3b-4a96-bbe4-08e01d04cf0d.png)](https://?sub_conformation=1)
 
-[![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/Amrit-Giri)
+[![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/HKHacker1)
 
 # COPYRIGHT
 
@@ -51,7 +52,7 @@ This script is for security or lock in termux
 
 ``apt install git ``
 
-``git clone https://github.com/Amrit-Giri/termux-login.git``
+``git clone https://github.com/HKHacker1/termux-login.git``
 
 ``cd termux-login ``
 
