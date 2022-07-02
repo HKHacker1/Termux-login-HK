@@ -2,9 +2,6 @@
 
 # LINK 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-1dcf57?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amrit-giri.com.np/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-
 [![GitHub](https://img.shields.io/badge/github-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/HKHacker1/)
 
 
