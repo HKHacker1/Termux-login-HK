@@ -71,4 +71,4 @@ This script is for security or lock in termux
 
 # Contributers
 
-4mrit Giri (only)
+HK Hacker (only)
